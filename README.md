@@ -1,6 +1,6 @@
 Silicon Replacement Prediction Using Machine Learning
 
-WEBSITE: https://rithikkaa-mlproject-17212005.netlify.app/
+WEBSITE: https://rithikkaasjmlproject.netlify.app/
 
 Overview:
 This project explores the use of machine learning algorithms to predict alternative materials for silicon-based semiconductor applications. By leveraging material properties and advanced ML models, we aim to identify potential replacements that optimize performance, efficiency, and sustainability in semiconductor technology.
@@ -13,7 +13,7 @@ Compare different supervised learning algorithms for accuracy and interpretabili
 Technologies Used:
 Programming Language: Python
 Libraries & Tools: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
-Models Implemented: Random Forest, XGBoost
+Models Implemented: Random Forest
 
 Approach:
 Data Collection & Processing – Compiled a dataset of material properties relevant to semiconductor applications.
@@ -22,9 +22,7 @@ Model Training & Evaluation – Trained and tested multiple ML models using cros
 Predictions & Insights – Identified promising silicon alternatives and assessed their feasibility for real-world applications.
 
 Results:
-Achieved high prediction accuracy using XGBoost and Neural Networks, outperforming traditional regression models.
-Feature analysis revealed key material properties influencing semiconductor efficiency.
-Potential alternative materials identified for further experimental validation.
+The materials K₂TiS₃, KGeCl₃, Li₅TiN₃, Mg₃BN₃, and Na₅SiP₃ show some potential to replace silicon in specific areas of solar cell applications from the data set given to us, but they do not fully surpass silicon’s dominance.
 
 Future Work:
 Expanding the dataset with experimental validation and real-world data.
